@@ -1,0 +1,26 @@
+# Binaries for programs
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go toolchain
+.cache/
+
+# Dependencies
+/vendor/
+
+# Go module cache
+/pkg/mod/
+
+# Go build cache
+/go-build/
+
+# Local executable
+pyramid_solver
+
+# VS Code specific files
+.vscode/
